@@ -1,10 +1,10 @@
 ---
-title: API Reference
+title: MusicApp API Docs
 
 language_tabs:
   - shell
   - ruby
-  - python
+  - php
 
 toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
